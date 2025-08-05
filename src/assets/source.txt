@@ -1,0 +1,3 @@
+logo : <img alt="Disney+ Hotstar" src="https://img.hotstar.com/image/upload/v1656431456/web-images/logo-d-plus.svg" class="" aria-hidden="false">
+    mv1:<img alt="Brahmāstra Part One: Shiva" src="https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/6761/1714673646761-t" aria-hidden="false" class="_3T0FnS0pkmTfowX_VrmYwf _2-A9IuHSssOiRkxHvku94z" data-testid="image-element">
+logo2:<img alt="The Freelancer" src="https://img10.hotstar.com/image/upload/f_auto,h_124/sources/r1/cms/prod/9584/1710250239584-t" aria-hidden="false" class="_3T0FnS0pkmTfowX_VrmYwf _2-A9IuHSssOiRkxHvku94z" data-testid="image-element">
