@@ -1,2 +1,2 @@
-# JioHotstar-
+# JioHotstar
 Clone Website
